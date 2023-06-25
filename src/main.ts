@@ -13,7 +13,7 @@ if (isNCMClient()) {
   });
 
   // @ts-ignore
-  plugin.onLoad(() => {
+  plugin.onAllPluginsLoaded(() => {
     createBeatSaver();
   });
 }
