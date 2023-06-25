@@ -27,7 +27,7 @@
     "slug": "beat-saver",
     "betterncm_version": ">=1.0.0",
     "author_link": "https://elaina.moe",
-    "description": "BeatSaver",
+    "description": "BeatSaver 一键快速搜索。",
     "preview": "preview.png",
     "type": "extension",
     "injects": {
